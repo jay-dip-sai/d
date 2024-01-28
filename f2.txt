@@ -1,0 +1,2 @@
+this is second file in git repo
+this is second line in my f2.txt
